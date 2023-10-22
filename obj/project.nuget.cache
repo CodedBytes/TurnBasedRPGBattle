@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ExJ3Dr8dYoPyxkGVcQALi9yMVBUyZ1AH0VLORNHn5xbjffp+JX2TegilGRns+EqB2LccQqG/gGLOPG8PNaC9QQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Joao e larissa\\source\\repos\\TurnBased_RPG_Battle_System\\TurnBased_RPG_Battle_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joao e larissa\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joao e larissa\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\Joao e larissa\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
