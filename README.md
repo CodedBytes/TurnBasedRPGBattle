@@ -22,4 +22,4 @@ O objetivo do projeto é mostrar minhas habilidades em logica de programação e
 entregar um codigo limpo e compreensivel para que todos possam entender!
 
 ## MEU CONTATO :envelope:
-Discord : [WebDev] YuutoX -> DJ.Next#1649
+Discord : [WebDev] YuutoX -> yuuto.x
